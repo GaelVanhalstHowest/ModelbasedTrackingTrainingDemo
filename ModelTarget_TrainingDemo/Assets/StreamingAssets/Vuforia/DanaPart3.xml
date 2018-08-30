@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="DanaPart3"/>
+</Tracking>
+
+<Assembly name="DanaPart3s_assembly">
+<Part name="DanaPart3" translation="0 0 0" rotation="AD: 0 0 0"/>
+<EntryPoint name="viewpoint_0000" translation="-1.04967e-06 11.5176 102.439" rotation="AD: 0.9945685378884612 -0.22119643624230298 0.579793170090177 215.871">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

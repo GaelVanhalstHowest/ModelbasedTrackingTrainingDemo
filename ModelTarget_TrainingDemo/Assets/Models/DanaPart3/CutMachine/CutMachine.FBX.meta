@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: 93147ed2484bbe2408e4b19e9bfa45a8
+timeCreated: 1519036528
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object001
+    100004: Part 1667
+    100006: Part 1668
+    100008: Part 1669
+    100010: Part 1718
+    100012: Part 1719
+    100014: Part 1720
+    100016: Part 1721
+    100018: Part 1722
+    100020: Part 1723
+    100022: Part 1724
+    100024: Part 1725
+    100026: Part 1726
+    100028: Part 1727
+    100030: Part 1728
+    100032: Part 1729
+    100034: Part 1730
+    100036: Part 1999
+    100038: Part 2000
+    100040: Part 2001
+    100042: Part 2002
+    100044: Part 2003
+    100046: Part 2160
+    100048: Part 2161
+    100050: Part 2162
+    100052: Part 2163
+    100054: Part 2164
+    100056: Part 2165
+    100058: Part 2166
+    100060: Part 2167
+    100062: Part 2168
+    100064: Part 2169
+    100066: Part 2170
+    100068: Part 2171
+    100070: Part 2172
+    100072: Part 2173
+    100074: Part 2177
+    100076: Part 2186
+    100078: Part 2187
+    100080: Part 2188
+    100082: Part 2191
+    100084: Part 2203
+    100086: Part 2204
+    100088: Part 2205
+    100090: Part 2206
+    100092: Part 2207
+    100094: Part 2208
+    100096: Part 2209
+    100098: Part 2210
+    100100: Part 2211
+    100102: Part 2215
+    100104: Part 2224
+    100106: Part 2225
+    100108: Part 2226
+    100110: Part 2230
+    100112: Part 2241
+    100114: Part 2242
+    100116: Part 2243
+    100118: Part 2244
+    100120: Part 2245
+    100122: Part 2246
+    100124: Part 2247
+    100126: Part 2248
+    100128: Part 2249
+    100130: Part 2250
+    100132: Part 2251
+    100134: Part 2252
+    100136: Part 2253
+    100138: Part 2254
+    100140: Part 2255
+    100142: Part 2256
+    100144: Part 2257
+    100146: Part 2258
+    100148: Part 2259
+    100150: Part 2260
+    100152: Part 2261
+    100154: Part 2262
+    100156: Part 2263
+    100158: Part 2264
+    100160: Part 2265
+    100162: Part 2266
+    100164: Part 2267
+    100166: Part 2268
+    100168: Part 2269
+    100170: Part 2270
+    100172: Part 2271
+    100174: Part 2272
+    100176: Part 2273
+    100178: Part 2274
+    100180: Part 2278
+    100182: Part 2287
+    100184: Part 2288
+    100186: Part 2291
+    100188: Part 2299
+    100190: Part 2300
+    100192: Part 2301
+    100194: Part 2302
+    100196: Part 2303
+    100198: Part 2304
+    100200: Part 2305
+    100202: Part 2306
+    100204: Part 2307
+    100206: Part 2308
+    100208: Part 2309
+    100210: Part 2310
+    100212: Part 2311
+    100214: Part 2312
+    100216: Part 2313
+    100218: Part 2314
+    100220: Part 2315
+    100222: Part 2316
+    100224: Part 2317
+    100226: Part 2318
+    100228: Part 2322
+    100230: Part 2331
+    100232: Part 2332
+    100234: Part 2333
+    100236: Part 2336
+    100238: Part 2348
+    100240: Part 2349
+    100242: Part 2350
+    100244: Part 2351
+    100246: Part 2352
+    100248: Part 2353
+    100250: Part 2354
+    100252: Part 2355
+    100254: Part 2356
+    100256: Part 2357
+    100258: Part 2358
+    100260: Part 2359
+    100262: Part 2360
+    100264: Part 2361
+    100266: Part 2362
+    100268: Part 2363
+    100270: Part 2364
+    100272: Step_001_Part4213682
+    100274: Step_002_Part4214228
+    100276: Step_003_Part4212877
+    100278: Step_004_Part4203847
+    100280: Step_005_Part4202094_01
+    100282: Step_005_Part4202094_02
+    100284: Step_005_Part4202094_03
+    100286: Step_005_Part4202094_04
+    100288: Step_005_Part4202094_05
+    100290: Step_005_Part4202094_06
+    100292: Step_006_Part4207968_01
+    100294: Step_006_Part4207968_02
+    100296: Step_006_Part4207968_03
+    100298: Step_006_Part4207968_04
+    100300: Step_006_Part4207968_05
+    100302: Step_006_Part4207968_06
+    100304: Step_006_Part4207968_07
+    100306: Step_007_Part4203846_01
+    100308: Step_007_Part4203846_02
+    100310: Step_007_Part4203846_03
+    100312: Step_007_Part4203846_04
+    100314: Step_007_Part4203846_05
+    100316: Step_008_Part4211969
+    100318: Step_009_Part4208828
+    100320: Step_010_Part4211689
+    100322: Step_011_Part4214267
+    100324: Step_012_Part4213693
+    100326: Step_013_Part4212727
+    100328: Step_014_Part4213696
+    100330: Step_015_Part214295_01
+    100332: Step_015_Part214295_02
+    100334: Step_017_Part60K030018_01
+    100336: Step_017_Part60K030018_02
+    100338: Step_017_Part60K030018_03
+    100340: Step_017_Part60K030018_04
+    100342: Step_018_Part4213722
+    100344: Step_019_Part8EM000080_01
+    100346: Step_019_Part8EM000080_02
+    100348: Step_019_Part8EM000080_03
+    100350: Step_019_Part8EM000080_04
+    100352: Step_019_Part8EM000080_05
+    100354: Step_019_Part8EM000080_06
+    100356: Step_019_Part8EM000080_07
+    100358: Step_019_Part8EM000080_08
+    100360: Step_019_Part8EM000080_09
+    100362: Step_019_Part8EM000080_10
+    100364: Step_019_Part8EM000080_11
+    100366: Step_019_Part8EM000080_12
+    100368: Step_019_Part8EM000080_13
+    100370: Step_019_Part8EM000080_14
+    100372: Step_019_Part8EM000080_15
+    100374: Step_019_Part8EM000080_16
+    100376: Step_019_Part8EM000080_17
+    100378: Step_019_Part8EM000080_18
+    100380: Step_019_Part8EM000080_19
+    100382: Step_019_Part8EM000080_20
+    100384: Step_019_Part8EM000080_21
+    100386: Step_019_Part8EM000080_22
+    100388: Step_019_Part8EM000080_23
+    100390: Step_020_Part3GM000825_01
+    100392: Step_020_Part3GM000825_02
+    100394: Step_020_Part3GM000825_03
+    100396: Step_020_Part3GM000825_04
+    100398: Step_020_Part3GM000825_05
+    100400: Step_020_Part3GM000825_06
+    100402: Step_020_Part3GM000825_07
+    100404: Step_020_Part3GM000825_08
+    100406: Step_020_Part3GM000825_09
+    100408: Step_020_Part3GM000825_10
+    100410: Step_020_Part3GM000825_11
+    100412: Step_020_Part3GM000825_12
+    100414: Step_020_Part3GM000825_13
+    100416: Step_020_Part3GM000825_14
+    100418: Step_020_Part3GM000825_15
+    100420: Step_020_Part3GM000825_16
+    100422: Step_020_Part3GM000825_17
+    100424: Step_020_Part3GM000825_18
+    100426: Step_020_Part3GM000825_19
+    100428: Step_020_Part3GM000825_20
+    100430: Step_020_Part3GM000825_21
+    100432: Step_020_Part3GM000825_22
+    100434: Step_020_Part3GM000825_23
+    400000: //RootNode
+    400002: Object001
+    400004: Part 1667
+    400006: Part 1668
+    400008: Part 1669
+    400010: Part 1718
+    400012: Part 1719
+    400014: Part 1720
+    400016: Part 1721
+    400018: Part 1722
+    400020: Part 1723
+    400022: Part 1724
+    400024: Part 1725
+    400026: Part 1726
+    400028: Part 1727
+    400030: Part 1728
+    400032: Part 1729
+    400034: Part 1730
+    400036: Part 1999
+    400038: Part 2000
+    400040: Part 2001
+    400042: Part 2002
+    400044: Part 2003
+    400046: Part 2160
+    400048: Part 2161
+    400050: Part 2162
+    400052: Part 2163
+    400054: Part 2164
+    400056: Part 2165
+    400058: Part 2166
+    400060: Part 2167
+    400062: Part 2168
+    400064: Part 2169
+    400066: Part 2170
+    400068: Part 2171
+    400070: Part 2172
+    400072: Part 2173
+    400074: Part 2177
+    400076: Part 2186
+    400078: Part 2187
+    400080: Part 2188
+    400082: Part 2191
+    400084: Part 2203
+    400086: Part 2204
+    400088: Part 2205
+    400090: Part 2206
+    400092: Part 2207
+    400094: Part 2208
+    400096: Part 2209
+    400098: Part 2210
+    400100: Part 2211
+    400102: Part 2215
+    400104: Part 2224
+    400106: Part 2225
+    400108: Part 2226
+    400110: Part 2230
+    400112: Part 2241
+    400114: Part 2242
+    400116: Part 2243
+    400118: Part 2244
+    400120: Part 2245
+    400122: Part 2246
+    400124: Part 2247
+    400126: Part 2248
+    400128: Part 2249
+    400130: Part 2250
+    400132: Part 2251
+    400134: Part 2252
+    400136: Part 2253
+    400138: Part 2254
+    400140: Part 2255
+    400142: Part 2256
+    400144: Part 2257
+    400146: Part 2258
+    400148: Part 2259
+    400150: Part 2260
+    400152: Part 2261
+    400154: Part 2262
+    400156: Part 2263
+    400158: Part 2264
+    400160: Part 2265
+    400162: Part 2266
+    400164: Part 2267
+    400166: Part 2268
+    400168: Part 2269
+    400170: Part 2270
+    400172: Part 2271
+    400174: Part 2272
+    400176: Part 2273
+    400178: Part 2274
+    400180: Part 2278
+    400182: Part 2287
+    400184: Part 2288
+    400186: Part 2291
+    400188: Part 2299
+    400190: Part 2300
+    400192: Part 2301
+    400194: Part 2302
+    400196: Part 2303
+    400198: Part 2304
+    400200: Part 2305
+    400202: Part 2306
+    400204: Part 2307
+    400206: Part 2308
+    400208: Part 2309
+    400210: Part 2310
+    400212: Part 2311
+    400214: Part 2312
+    400216: Part 2313
+    400218: Part 2314
+    400220: Part 2315
+    400222: Part 2316
+    400224: Part 2317
+    400226: Part 2318
+    400228: Part 2322
+    400230: Part 2331
+    400232: Part 2332
+    400234: Part 2333
+    400236: Part 2336
+    400238: Part 2348
+    400240: Part 2349
+    400242: Part 2350
+    400244: Part 2351
+    400246: Part 2352
+    400248: Part 2353
+    400250: Part 2354
+    400252: Part 2355
+    400254: Part 2356
+    400256: Part 2357
+    400258: Part 2358
+    400260: Part 2359
+    400262: Part 2360
+    400264: Part 2361
+    400266: Part 2362
+    400268: Part 2363
+    400270: Part 2364
+    400272: Step_001_Part4213682
+    400274: Step_002_Part4214228
+    400276: Step_003_Part4212877
+    400278: Step_004_Part4203847
+    400280: Step_005_Part4202094_01
+    400282: Step_005_Part4202094_02
+    400284: Step_005_Part4202094_03
+    400286: Step_005_Part4202094_04
+    400288: Step_005_Part4202094_05
+    400290: Step_005_Part4202094_06
+    400292: Step_006_Part4207968_01
+    400294: Step_006_Part4207968_02
+    400296: Step_006_Part4207968_03
+    400298: Step_006_Part4207968_04
+    400300: Step_006_Part4207968_05
+    400302: Step_006_Part4207968_06
+    400304: Step_006_Part4207968_07
+    400306: Step_007_Part4203846_01
+    400308: Step_007_Part4203846_02
+    400310: Step_007_Part4203846_03
+    400312: Step_007_Part4203846_04
+    400314: Step_007_Part4203846_05
+    400316: Step_008_Part4211969
+    400318: Step_009_Part4208828
+    400320: Step_010_Part4211689
+    400322: Step_011_Part4214267
+    400324: Step_012_Part4213693
+    400326: Step_013_Part4212727
+    400328: Step_014_Part4213696
+    400330: Step_015_Part214295_01
+    400332: Step_015_Part214295_02
+    400334: Step_017_Part60K030018_01
+    400336: Step_017_Part60K030018_02
+    400338: Step_017_Part60K030018_03
+    400340: Step_017_Part60K030018_04
+    400342: Step_018_Part4213722
+    400344: Step_019_Part8EM000080_01
+    400346: Step_019_Part8EM000080_02
+    400348: Step_019_Part8EM000080_03
+    400350: Step_019_Part8EM000080_04
+    400352: Step_019_Part8EM000080_05
+    400354: Step_019_Part8EM000080_06
+    400356: Step_019_Part8EM000080_07
+    400358: Step_019_Part8EM000080_08
+    400360: Step_019_Part8EM000080_09
+    400362: Step_019_Part8EM000080_10
+    400364: Step_019_Part8EM000080_11
+    400366: Step_019_Part8EM000080_12
+    400368: Step_019_Part8EM000080_13
+    400370: Step_019_Part8EM000080_14
+    400372: Step_019_Part8EM000080_15
+    400374: Step_019_Part8EM000080_16
+    400376: Step_019_Part8EM000080_17
+    400378: Step_019_Part8EM000080_18
+    400380: Step_019_Part8EM000080_19
+    400382: Step_019_Part8EM000080_20
+    400384: Step_019_Part8EM000080_21
+    400386: Step_019_Part8EM000080_22
+    400388: Step_019_Part8EM000080_23
+    400390: Step_020_Part3GM000825_01
+    400392: Step_020_Part3GM000825_02
+    400394: Step_020_Part3GM000825_03
+    400396: Step_020_Part3GM000825_04
+    400398: Step_020_Part3GM000825_05
+    400400: Step_020_Part3GM000825_06
+    400402: Step_020_Part3GM000825_07
+    400404: Step_020_Part3GM000825_08
+    400406: Step_020_Part3GM000825_09
+    400408: Step_020_Part3GM000825_10
+    400410: Step_020_Part3GM000825_11
+    400412: Step_020_Part3GM000825_12
+    400414: Step_020_Part3GM000825_13
+    400416: Step_020_Part3GM000825_14
+    400418: Step_020_Part3GM000825_15
+    400420: Step_020_Part3GM000825_16
+    400422: Step_020_Part3GM000825_17
+    400424: Step_020_Part3GM000825_18
+    400426: Step_020_Part3GM000825_19
+    400428: Step_020_Part3GM000825_20
+    400430: Step_020_Part3GM000825_21
+    400432: Step_020_Part3GM000825_22
+    400434: Step_020_Part3GM000825_23
+    2100000: No Name
+    2300000: Object001
+    2300002: Part 1667
+    2300004: Part 1668
+    2300006: Part 1669
+    2300008: Part 1718
+    2300010: Part 1719
+    2300012: Part 1720
+    2300014: Part 1721
+    2300016: Part 1722
+    2300018: Part 1723
+    2300020: Part 1724
+    2300022: Part 1725
+    2300024: Part 1726
+    2300026: Part 1727
+    2300028: Part 1728
+    2300030: Part 1729
+    2300032: Part 1730
+    2300034: Part 1999
+    2300036: Part 2000
+    2300038: Part 2001
+    2300040: Part 2002
+    2300042: Part 2003
+    2300044: Part 2160
+    2300046: Part 2161
+    2300048: Part 2162
+    2300050: Part 2163
+    2300052: Part 2164
+    2300054: Part 2165
+    2300056: Part 2166
+    2300058: Part 2167
+    2300060: Part 2168
+    2300062: Part 2169
+    2300064: Part 2170
+    2300066: Part 2171
+    2300068: Part 2172
+    2300070: Part 2173
+    2300072: Part 2177
+    2300074: Part 2186
+    2300076: Part 2187
+    2300078: Part 2188
+    2300080: Part 2191
+    2300082: Part 2203
+    2300084: Part 2204
+    2300086: Part 2205
+    2300088: Part 2206
+    2300090: Part 2207
+    2300092: Part 2208
+    2300094: Part 2209
+    2300096: Part 2210
+    2300098: Part 2211
+    2300100: Part 2215
+    2300102: Part 2224
+    2300104: Part 2225
+    2300106: Part 2226
+    2300108: Part 2230
+    2300110: Part 2241
+    2300112: Part 2242
+    2300114: Part 2243
+    2300116: Part 2244
+    2300118: Part 2245
+    2300120: Part 2246
+    2300122: Part 2247
+    2300124: Part 2248
+    2300126: Part 2249
+    2300128: Part 2250
+    2300130: Part 2251
+    2300132: Part 2252
+    2300134: Part 2253
+    2300136: Part 2254
+    2300138: Part 2255
+    2300140: Part 2256
+    2300142: Part 2257
+    2300144: Part 2258
+    2300146: Part 2259
+    2300148: Part 2260
+    2300150: Part 2261
+    2300152: Part 2262
+    2300154: Part 2263
+    2300156: Part 2264
+    2300158: Part 2265
+    2300160: Part 2266
+    2300162: Part 2267
+    2300164: Part 2268
+    2300166: Part 2269
+    2300168: Part 2270
+    2300170: Part 2271
+    2300172: Part 2272
+    2300174: Part 2273
+    2300176: Part 2274
+    2300178: Part 2278
+    2300180: Part 2287
+    2300182: Part 2288
+    2300184: Part 2291
+    2300186: Part 2299
+    2300188: Part 2300
+    2300190: Part 2301
+    2300192: Part 2302
+    2300194: Part 2303
+    2300196: Part 2304
+    2300198: Part 2305
+    2300200: Part 2306
+    2300202: Part 2307
+    2300204: Part 2308
+    2300206: Part 2309
+    2300208: Part 2310
+    2300210: Part 2311
+    2300212: Part 2312
+    2300214: Part 2313
+    2300216: Part 2314
+    2300218: Part 2315
+    2300220: Part 2316
+    2300222: Part 2317
+    2300224: Part 2318
+    2300226: Part 2322
+    2300228: Part 2331
+    2300230: Part 2332
+    2300232: Part 2333
+    2300234: Part 2336
+    2300236: Part 2348
+    2300238: Part 2349
+    2300240: Part 2350
+    2300242: Part 2351
+    2300244: Part 2352
+    2300246: Part 2353
+    2300248: Part 2354
+    2300250: Part 2355
+    2300252: Part 2356
+    2300254: Part 2357
+    2300256: Part 2358
+    2300258: Part 2359
+    2300260: Part 2360
+    2300262: Part 2361
+    2300264: Part 2362
+    2300266: Part 2363
+    2300268: Part 2364
+    2300270: Step_002_Part4214228
+    2300272: Step_003_Part4212877
+    2300274: Step_005_Part4202094_01
+    2300276: Step_005_Part4202094_02
+    2300278: Step_005_Part4202094_03
+    2300280: Step_005_Part4202094_04
+    2300282: Step_005_Part4202094_05
+    2300284: Step_005_Part4202094_06
+    2300286: Step_008_Part4211969
+    2300288: Step_009_Part4208828
+    2300290: Step_010_Part4211689
+    2300292: Step_015_Part214295_01
+    2300294: Step_015_Part214295_02
+    2300296: Step_017_Part60K030018_01
+    2300298: Step_017_Part60K030018_02
+    2300300: Step_017_Part60K030018_03
+    2300302: Step_017_Part60K030018_04
+    2300304: Step_019_Part8EM000080_01
+    2300306: Step_019_Part8EM000080_02
+    2300308: Step_019_Part8EM000080_03
+    2300310: Step_019_Part8EM000080_04
+    2300312: Step_019_Part8EM000080_05
+    2300314: Step_019_Part8EM000080_06
+    2300316: Step_019_Part8EM000080_07
+    2300318: Step_019_Part8EM000080_08
+    2300320: Step_019_Part8EM000080_09
+    2300322: Step_019_Part8EM000080_10
+    2300324: Step_019_Part8EM000080_11
+    2300326: Step_019_Part8EM000080_12
+    2300328: Step_019_Part8EM000080_13
+    2300330: Step_019_Part8EM000080_14
+    2300332: Step_019_Part8EM000080_15
+    2300334: Step_019_Part8EM000080_16
+    2300336: Step_019_Part8EM000080_17
+    2300338: Step_019_Part8EM000080_18
+    2300340: Step_019_Part8EM000080_19
+    2300342: Step_019_Part8EM000080_20
+    2300344: Step_019_Part8EM000080_21
+    2300346: Step_019_Part8EM000080_22
+    2300348: Step_019_Part8EM000080_23
+    2300350: Step_020_Part3GM000825_01
+    2300352: Step_020_Part3GM000825_02
+    2300354: Step_020_Part3GM000825_03
+    2300356: Step_020_Part3GM000825_04
+    2300358: Step_020_Part3GM000825_05
+    2300360: Step_020_Part3GM000825_06
+    2300362: Step_020_Part3GM000825_07
+    2300364: Step_020_Part3GM000825_08
+    2300366: Step_020_Part3GM000825_09
+    2300368: Step_020_Part3GM000825_10
+    2300370: Step_020_Part3GM000825_11
+    2300372: Step_020_Part3GM000825_12
+    2300374: Step_020_Part3GM000825_13
+    2300376: Step_020_Part3GM000825_14
+    2300378: Step_020_Part3GM000825_15
+    2300380: Step_020_Part3GM000825_16
+    2300382: Step_020_Part3GM000825_17
+    2300384: Step_020_Part3GM000825_18
+    2300386: Step_020_Part3GM000825_19
+    2300388: Step_020_Part3GM000825_20
+    2300390: Step_020_Part3GM000825_21
+    2300392: Step_020_Part3GM000825_22
+    2300394: Step_020_Part3GM000825_23
+    3300000: Object001
+    3300002: Part 1667
+    3300004: Part 1668
+    3300006: Part 1669
+    3300008: Part 1718
+    3300010: Part 1719
+    3300012: Part 1720
+    3300014: Part 1721
+    3300016: Part 1722
+    3300018: Part 1723
+    3300020: Part 1724
+    3300022: Part 1725
+    3300024: Part 1726
+    3300026: Part 1727
+    3300028: Part 1728
+    3300030: Part 1729
+    3300032: Part 1730
+    3300034: Part 1999
+    3300036: Part 2000
+    3300038: Part 2001
+    3300040: Part 2002
+    3300042: Part 2003
+    3300044: Part 2160
+    3300046: Part 2161
+    3300048: Part 2162
+    3300050: Part 2163
+    3300052: Part 2164
+    3300054: Part 2165
+    3300056: Part 2166
+    3300058: Part 2167
+    3300060: Part 2168
+    3300062: Part 2169
+    3300064: Part 2170
+    3300066: Part 2171
+    3300068: Part 2172
+    3300070: Part 2173
+    3300072: Part 2177
+    3300074: Part 2186
+    3300076: Part 2187
+    3300078: Part 2188
+    3300080: Part 2191
+    3300082: Part 2203
+    3300084: Part 2204
+    3300086: Part 2205
+    3300088: Part 2206
+    3300090: Part 2207
+    3300092: Part 2208
+    3300094: Part 2209
+    3300096: Part 2210
+    3300098: Part 2211
+    3300100: Part 2215
+    3300102: Part 2224
+    3300104: Part 2225
+    3300106: Part 2226
+    3300108: Part 2230
+    3300110: Part 2241
+    3300112: Part 2242
+    3300114: Part 2243
+    3300116: Part 2244
+    3300118: Part 2245
+    3300120: Part 2246
+    3300122: Part 2247
+    3300124: Part 2248
+    3300126: Part 2249
+    3300128: Part 2250
+    3300130: Part 2251
+    3300132: Part 2252
+    3300134: Part 2253
+    3300136: Part 2254
+    3300138: Part 2255
+    3300140: Part 2256
+    3300142: Part 2257
+    3300144: Part 2258
+    3300146: Part 2259
+    3300148: Part 2260
+    3300150: Part 2261
+    3300152: Part 2262
+    3300154: Part 2263
+    3300156: Part 2264
+    3300158: Part 2265
+    3300160: Part 2266
+    3300162: Part 2267
+    3300164: Part 2268
+    3300166: Part 2269
+    3300168: Part 2270
+    3300170: Part 2271
+    3300172: Part 2272
+    3300174: Part 2273
+    3300176: Part 2274
+    3300178: Part 2278
+    3300180: Part 2287
+    3300182: Part 2288
+    3300184: Part 2291
+    3300186: Part 2299
+    3300188: Part 2300
+    3300190: Part 2301
+    3300192: Part 2302
+    3300194: Part 2303
+    3300196: Part 2304
+    3300198: Part 2305
+    3300200: Part 2306
+    3300202: Part 2307
+    3300204: Part 2308
+    3300206: Part 2309
+    3300208: Part 2310
+    3300210: Part 2311
+    3300212: Part 2312
+    3300214: Part 2313
+    3300216: Part 2314
+    3300218: Part 2315
+    3300220: Part 2316
+    3300222: Part 2317
+    3300224: Part 2318
+    3300226: Part 2322
+    3300228: Part 2331
+    3300230: Part 2332
+    3300232: Part 2333
+    3300234: Part 2336
+    3300236: Part 2348
+    3300238: Part 2349
+    3300240: Part 2350
+    3300242: Part 2351
+    3300244: Part 2352
+    3300246: Part 2353
+    3300248: Part 2354
+    3300250: Part 2355
+    3300252: Part 2356
+    3300254: Part 2357
+    3300256: Part 2358
+    3300258: Part 2359
+    3300260: Part 2360
+    3300262: Part 2361
+    3300264: Part 2362
+    3300266: Part 2363
+    3300268: Part 2364
+    3300270: Step_002_Part4214228
+    3300272: Step_003_Part4212877
+    3300274: Step_005_Part4202094_01
+    3300276: Step_005_Part4202094_02
+    3300278: Step_005_Part4202094_03
+    3300280: Step_005_Part4202094_04
+    3300282: Step_005_Part4202094_05
+    3300284: Step_005_Part4202094_06
+    3300286: Step_008_Part4211969
+    3300288: Step_009_Part4208828
+    3300290: Step_010_Part4211689
+    3300292: Step_015_Part214295_01
+    3300294: Step_015_Part214295_02
+    3300296: Step_017_Part60K030018_01
+    3300298: Step_017_Part60K030018_02
+    3300300: Step_017_Part60K030018_03
+    3300302: Step_017_Part60K030018_04
+    3300304: Step_019_Part8EM000080_01
+    3300306: Step_019_Part8EM000080_02
+    3300308: Step_019_Part8EM000080_03
+    3300310: Step_019_Part8EM000080_04
+    3300312: Step_019_Part8EM000080_05
+    3300314: Step_019_Part8EM000080_06
+    3300316: Step_019_Part8EM000080_07
+    3300318: Step_019_Part8EM000080_08
+    3300320: Step_019_Part8EM000080_09
+    3300322: Step_019_Part8EM000080_10
+    3300324: Step_019_Part8EM000080_11
+    3300326: Step_019_Part8EM000080_12
+    3300328: Step_019_Part8EM000080_13
+    3300330: Step_019_Part8EM000080_14
+    3300332: Step_019_Part8EM000080_15
+    3300334: Step_019_Part8EM000080_16
+    3300336: Step_019_Part8EM000080_17
+    3300338: Step_019_Part8EM000080_18
+    3300340: Step_019_Part8EM000080_19
+    3300342: Step_019_Part8EM000080_20
+    3300344: Step_019_Part8EM000080_21
+    3300346: Step_019_Part8EM000080_22
+    3300348: Step_019_Part8EM000080_23
+    3300350: Step_020_Part3GM000825_01
+    3300352: Step_020_Part3GM000825_02
+    3300354: Step_020_Part3GM000825_03
+    3300356: Step_020_Part3GM000825_04
+    3300358: Step_020_Part3GM000825_05
+    3300360: Step_020_Part3GM000825_06
+    3300362: Step_020_Part3GM000825_07
+    3300364: Step_020_Part3GM000825_08
+    3300366: Step_020_Part3GM000825_09
+    3300368: Step_020_Part3GM000825_10
+    3300370: Step_020_Part3GM000825_11
+    3300372: Step_020_Part3GM000825_12
+    3300374: Step_020_Part3GM000825_13
+    3300376: Step_020_Part3GM000825_14
+    3300378: Step_020_Part3GM000825_15
+    3300380: Step_020_Part3GM000825_16
+    3300382: Step_020_Part3GM000825_17
+    3300384: Step_020_Part3GM000825_18
+    3300386: Step_020_Part3GM000825_19
+    3300388: Step_020_Part3GM000825_20
+    3300390: Step_020_Part3GM000825_21
+    3300392: Step_020_Part3GM000825_22
+    3300394: Step_020_Part3GM000825_23
+    4300000: Part 1667
+    4300002: Part 1668
+    4300004: Part 1669
+    4300006: Part 2364
+    4300008: Step_003_Part4212877
+    4300010: Step_002_Part4214228
+    4300012: Part 1718
+    4300014: Part 1719
+    4300016: Part 1720
+    4300018: Step_005_Part4202094_03
+    4300020: Step_005_Part4202094_05
+    4300022: Step_005_Part4202094_06
+    4300024: Step_005_Part4202094_02
+    4300026: Step_005_Part4202094_01
+    4300028: Step_005_Part4202094_04
+    4300030: Part 1721
+    4300032: Part 1722
+    4300034: Part 1723
+    4300036: Part 1724
+    4300038: Part 1725
+    4300040: Part 1726
+    4300042: Part 1727
+    4300044: Part 1728
+    4300046: Part 1729
+    4300048: Part 1730
+    4300050: Step_009_Part4208828
+    4300052: Step_008_Part4211969
+    4300054: Step_010_Part4211689
+    4300056: Part 2001
+    4300058: Part 2003
+    4300060: Part 1999
+    4300062: Part 2002
+    4300064: Part 2000
+    4300066: Step_015_Part214295_01
+    4300068: Step_015_Part214295_02
+    4300070: Step_017_Part60K030018_03
+    4300072: Step_017_Part60K030018_04
+    4300074: Step_017_Part60K030018_01
+    4300076: Step_017_Part60K030018_02
+    4300078: Step_019_Part8EM000080_23
+    4300080: Step_019_Part8EM000080_22
+    4300082: Step_019_Part8EM000080_20
+    4300084: Step_019_Part8EM000080_21
+    4300086: Step_019_Part8EM000080_19
+    4300088: Step_019_Part8EM000080_18
+    4300090: Step_019_Part8EM000080_17
+    4300092: Step_019_Part8EM000080_16
+    4300094: Step_019_Part8EM000080_15
+    4300096: Step_019_Part8EM000080_14
+    4300098: Step_019_Part8EM000080_13
+    4300100: Step_019_Part8EM000080_12
+    4300102: Step_019_Part8EM000080_11
+    4300104: Step_019_Part8EM000080_10
+    4300106: Step_019_Part8EM000080_09
+    4300108: Step_019_Part8EM000080_08
+    4300110: Step_019_Part8EM000080_07
+    4300112: Step_019_Part8EM000080_06
+    4300114: Step_019_Part8EM000080_05
+    4300116: Step_019_Part8EM000080_04
+    4300118: Step_019_Part8EM000080_03
+    4300120: Step_019_Part8EM000080_02
+    4300122: Step_019_Part8EM000080_01
+    4300124: Part 2160
+    4300126: Part 2161
+    4300128: Part 2162
+    4300130: Part 2163
+    4300132: Part 2164
+    4300134: Part 2165
+    4300136: Part 2166
+    4300138: Part 2167
+    4300140: Part 2168
+    4300142: Part 2263
+    4300144: Part 2170
+    4300146: Part 2171
+    4300148: Part 2172
+    4300150: Part 2173
+    4300152: Part 2177
+    4300154: Part 2186
+    4300156: Part 2187
+    4300158: Part 2188
+    4300160: Part 2191
+    4300162: Part 2203
+    4300164: Part 2204
+    4300166: Part 2205
+    4300168: Part 2206
+    4300170: Part 2262
+    4300172: Part 2208
+    4300174: Part 2209
+    4300176: Part 2210
+    4300178: Part 2211
+    4300180: Part 2215
+    4300182: Part 2224
+    4300184: Part 2225
+    4300186: Part 2226
+    4300188: Part 2230
+    4300190: Part 2241
+    4300192: Part 2242
+    4300194: Part 2243
+    4300196: Part 2244
+    4300198: Part 2245
+    4300200: Part 2246
+    4300202: Part 2247
+    4300204: Part 2248
+    4300206: Part 2249
+    4300208: Part 2250
+    4300210: Part 2251
+    4300212: Part 2252
+    4300214: Part 2253
+    4300216: Part 2254
+    4300218: Part 2255
+    4300220: Part 2256
+    4300222: Part 2261
+    4300224: Part 2260
+    4300226: Part 2259
+    4300228: Part 2264
+    4300230: Part 2207
+    4300232: Part 2169
+    4300234: Part 2257
+    4300236: Part 2258
+    4300238: Part 2288
+    4300240: Part 2266
+    4300242: Part 2267
+    4300244: Part 2268
+    4300246: Part 2269
+    4300248: Part 2270
+    4300250: Part 2271
+    4300252: Part 2272
+    4300254: Part 2273
+    4300256: Part 2274
+    4300258: Part 2278
+    4300260: Part 2287
+    4300262: Part 2308
+    4300264: Part 2291
+    4300266: Part 2299
+    4300268: Part 2300
+    4300270: Part 2301
+    4300272: Part 2302
+    4300274: Part 2303
+    4300276: Part 2304
+    4300278: Part 2305
+    4300280: Part 2306
+    4300282: Part 2307
+    4300284: Part 2265
+    4300286: Part 2317
+    4300288: Part 2310
+    4300290: Part 2311
+    4300292: Part 2312
+    4300294: Part 2313
+    4300296: Part 2314
+    4300298: Part 2315
+    4300300: Part 2316
+    4300302: Part 2348
+    4300304: Part 2318
+    4300306: Part 2322
+    4300308: Part 2331
+    4300310: Part 2332
+    4300312: Part 2333
+    4300314: Part 2336
+    4300316: Part 2309
+    4300318: Part 2349
+    4300320: Part 2350
+    4300322: Part 2351
+    4300324: Part 2352
+    4300326: Part 2353
+    4300328: Part 2354
+    4300330: Part 2355
+    4300332: Part 2356
+    4300334: Part 2357
+    4300336: Part 2358
+    4300338: Part 2359
+    4300340: Part 2360
+    4300342: Part 2361
+    4300344: Part 2362
+    4300346: Part 2363
+    4300348: Step_020_Part3GM000825_01
+    4300350: Step_020_Part3GM000825_02
+    4300352: Step_020_Part3GM000825_03
+    4300354: Step_020_Part3GM000825_04
+    4300356: Step_020_Part3GM000825_05
+    4300358: Step_020_Part3GM000825_06
+    4300360: Step_020_Part3GM000825_07
+    4300362: Step_020_Part3GM000825_08
+    4300364: Step_020_Part3GM000825_09
+    4300366: Step_020_Part3GM000825_10
+    4300368: Step_020_Part3GM000825_11
+    4300370: Step_020_Part3GM000825_12
+    4300372: Step_020_Part3GM000825_13
+    4300374: Step_020_Part3GM000825_14
+    4300376: Step_020_Part3GM000825_15
+    4300378: Step_020_Part3GM000825_16
+    4300380: Step_020_Part3GM000825_17
+    4300382: Step_020_Part3GM000825_18
+    4300384: Step_020_Part3GM000825_19
+    4300386: Step_020_Part3GM000825_21
+    4300388: Step_020_Part3GM000825_20
+    4300390: Step_020_Part3GM000825_22
+    4300392: Step_020_Part3GM000825_23
+    4300394: Object001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
